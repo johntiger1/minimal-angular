@@ -3,4 +3,4 @@ This repo shall contain a minimal amount of code for a functional example of ang
 
 
 see this:
-https://github.com/johntiger1/webstuff/tree/master/minimal_angular
+https://github.com/johntiger1/okta/tree/master/september/angularjs
